@@ -1,35 +1,32 @@
-# Bitsorchestra-crud-react-app
+# Bitsorchestra CRUD React App
 
-## Встановлення та запуск
+## Installation and Setup
 
-### 1. Клонування репозиторію
+### 1. Clone the Repository
 ```sh
 git clone https://github.com/ivankovbohdan/bitsorchestra-crud-react-app.git
 cd bitsorchestra-crud-react-app
 ```
 
-### 2. Встановлення залежностей
+### 2. Install Dependencies
 ```sh
 npm install
 ```
 
-### 3. Запуск сервера
-Запустіть сервер для роботи з `db.json`:
+### 3. Start the Server
+Start the server to work with `db.json`:
 ```sh
 npm run server
 ```
 
-### 4. Запуск React-застосунку
+### 4. Start the React Application
 ```sh
 npm start
 ```
 
-### 5. Одночасний запуск сервера та React-застосунку
-Якщо потрібно запустити обидва процеси одночасно:
+### 5. Run Server and React App Simultaneously
+If you need to run both processes at the same time:
 ```sh
 npm run dev
 ```
-Ця команда використовує `concurrently` для паралельного запуску процесів.
-
----
-
+This command uses `concurrently` to run the processes in parallel.

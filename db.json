@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Book 1",
+      "author": "Author 1",
+      "category": "Fiction",
+      "isbn": "1234567890",
+      "createdAt": "2025-03-07T09:02:47.159Z",
+      "modifiedAt": "2025-03-07T09:39:14.020Z",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "title": "Book 2",
+      "author": "Author 2",
+      "category": "Science",
+      "isbn": "9876543212",
+      "createdAt": "2025-03-07T09:04:52.791Z",
+      "modifiedAt": "2025-03-07T09:04:52.791Z",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "title": "Book 3",
+      "author": "Author 3",
+      "category": "History",
+      "isbn": "1122334455",
+      "createdAt": "2025-03-05T15:00:00Z",
+      "modifiedAt": "2025-03-06T14:00:00Z",
+      "status": "deactivated"
+    }
+  ]
+}
